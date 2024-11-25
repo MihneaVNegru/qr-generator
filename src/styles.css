@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #343a40;
+  }
+  
+  h1 {
+    margin-top: 1rem;
+    color: #007bff;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
